@@ -5,6 +5,6 @@
 
 ![alt-text](https://github.com/Noah670/SpaceWorld/blob/release/screenshots/space_world_animated_long.gif)
 
-
+[Latest Release ](https://github.com/Noah670/SpaceWorld/releases/download/0.1/SpaceWorld.zip) 
 
 ![alt-text](https://github.com/Noah670/SpaceWorld/blob/release/screenshots/spaceWorld.jpg)
